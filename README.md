@@ -1,9 +1,4 @@
 # AuctionHub
-If the files are too big to open on github, then pleae visit the repositories below to check out the code:
+If the files are too big to open on github, then pleae visit the google drive below to check out the code:
 
-[AuctionController Repository](https://github.com/Stan15/AuctionController)
-[UserService Repository](https://github.com/Anselmo21/UserService)
-[FrontEnd Repository](https://github.com/Yalzahed/AuctionHub)
-[MasterController](https://github.com/Yalzahed/MasterController)
-[PaymentService](https://github.com/Yalzahed/paymentService)
-[CatalogueService](https://github.com/mohful/CatalogueService)
+https://drive.google.com/file/d/1O4-g_aVSfcA0ySiFAI7e_zpDZt0PyLYn/view
